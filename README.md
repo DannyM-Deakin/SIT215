@@ -1,2 +1,10 @@
 # SIT215
-SIT215 2023
+Repository for all files associated with SIT215 Computational Intelligence @ Deakin University.
+
+Contians: 
+ 
+ -> Task 1: Search Algorithm DFS
+
+ -> Task 2: --------------------
+
+
