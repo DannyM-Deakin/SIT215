@@ -3,7 +3,7 @@ import sys
 import time
 
 # Reads maze configuration from input.txt file
-with open('Assignment 1 Files\input3.txt') as f:
+with open('Assignment 1 Files\input.txt') as f:
         maze = [list(line.strip()) for line in f]
         visited = [[False for _ in range(len(maze[0]))] for _ in range(len(maze))]
 
